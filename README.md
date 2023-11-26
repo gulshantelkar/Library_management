@@ -6,7 +6,7 @@
 - Download [IntelliJ Community](https://www.jetbrains.com/idea/download/) if you don't have any Java IDE.
 ## Optional:
 - ALso the added the transaction class and its feature
-- 
+
 ## Setting up the System:
 
 1. Open the downloaded folder.
