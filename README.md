@@ -4,7 +4,9 @@
 - Ensure that you have `sqlite3` installed. [Installation Guide for Mac](https://youtu.be/PC4phLbiZgk?si=gqEe_SNCoSDW_s2s)
 - Download [TablePlus](https://tableplus.com/) to check the database.
 - Download [IntelliJ Community](https://www.jetbrains.com/idea/download/) if you don't have any Java IDE.
-
+## Optional:
+- ALso the added the transaction class and its feature
+- 
 ## Setting up the System:
 
 1. Open the downloaded folder.
@@ -18,7 +20,7 @@
 1. Follow the steps after downloading TablePlus.
    ![TablePlus Setup](https://github.com/gulshantelkar/Library_management/assets/99161604/7c81b7da-f76d-42a3-acec-70301f597572)
 
-2. click on the plus icon
+2. click on the plus icon and select sqlite and name it anything
    ![TablePlus Path Selection](https://github.com/gulshantelkar/Library_management/assets/99161604/6db70180-8319-43be-b630-e005056e6ca5)
    
 1. Select the path where you downloaded this repository and choose the `library.db` file.
