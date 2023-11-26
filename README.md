@@ -15,7 +15,7 @@
 2. Open `main.java` in IntelliJ.
 3. Click the run button to execute the file, creating the `library.db` database.
    
-##Additional Info:
+## Additional Info:
 -if you dont want check the database 
 -you can directly proceed to the console( see the demo) 
 
