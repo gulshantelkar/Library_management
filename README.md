@@ -18,8 +18,10 @@
 1. Follow the steps after downloading TablePlus.
    ![TablePlus Setup](https://github.com/gulshantelkar/Library_management/assets/99161604/7c81b7da-f76d-42a3-acec-70301f597572)
 
-2. Select the path where you downloaded this repository and choose the `library.db` file.
+2. click on the plus icon
    ![TablePlus Path Selection](https://github.com/gulshantelkar/Library_management/assets/99161604/6db70180-8319-43be-b630-e005056e6ca5)
+   
+1. Select the path where you downloaded this repository and choose the `library.db` file.
    ![TablePlus Database Selection](https://github.com/gulshantelkar/Library_management/assets/99161604/ee9e8e5a-5969-4bc1-a487-c9425e0048c9)
 
 ## Demo Screenshots:
